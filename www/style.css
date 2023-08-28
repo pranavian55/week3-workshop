@@ -1,0 +1,39 @@
+#loginpage{
+    width:20;
+    margin-left:auto;
+    margin-right: auto;
+}
+#page{
+    background-color: #efefef;
+    max-width: 75em;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+}
+form input, form label{
+    display: block;
+}
+form input{
+    margin-bottom: 1em;
+    padding: 1em;
+}
+
+.success{
+    background-color: green;
+}
+.fail{
+    background-color: red;
+    padding:1em;
+}
+
+img{
+    width: 350px;
+}
+
+.hidemessage{
+    display:none;
+}
+.showmessage{
+    display:block;
+}
+    
